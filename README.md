@@ -24,14 +24,14 @@ You can click the Preview link to take a look at your changes.
 - Network architecture planning
 ![Your Image Alt Text](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif)
 ---
-
+# slavaru0x3b
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=slavaru0x3b&show_icons=true&count_private=true&theme=radical)
 
 --->
-# Slavaru0x3b 
+ 
 
 
-![Your Image Alt Text](https://media.wired.com/clips/5c748bfd4884de7dcc5bf13d/master/pass/Cloud%20Hackage_02.mp4)
+
 
 
 
