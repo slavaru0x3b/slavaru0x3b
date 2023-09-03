@@ -13,23 +13,16 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-💻 **I’m currently learning:** 
-- ML
-- Penetration testing
-- V2X information security
-
 🐇 **Expertise:** 
 - Vulnerability Assessment
-- Mobile security
 - Vulnerability analysis & CVE recurrent
-- Network architecture planning
 ![Your Image Alt Text](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif)
 ---
 # slavaru0x3b
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=slavaru0x3b&show_icons=true&count_private=true&theme=radical)
 
 --->
- -🐛:
+ 🐛:
 
 
 
