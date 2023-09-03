@@ -9,10 +9,6 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
---->
-# Slavaru0x3b 
-
-![Your Image Alt Text](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif)
 
 ---
 
@@ -30,6 +26,11 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=slavaru0x3b&show_icons=true&count_private=true&theme=radical)
+
+--->
+# Slavaru0x3b 
+
+![Your Image Alt Text](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif)
 
 
 
