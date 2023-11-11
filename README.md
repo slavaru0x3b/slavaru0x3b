@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Your Image Alt Text](https://media.tenor.com/hvxcGdyM4WAAAAAC/adventuretime-worm.gif)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=slavaru0x3b&show_icons=true&count_private=true&theme=radical)
 
 
 
